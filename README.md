@@ -4,7 +4,7 @@ DS homework
 
 ## Проекты
 
-* [Проект 0. Игра : Угадай число](https://github.com/Marina-Egorova/DSPR-161-ME/IDE/Project_0)
+* [Проект 0. Игра : Угадай число](https://github.com/Marina-Egorova/DSPR-161-ME/tree/main/Project_0)
 * [Проект 1. ______]()
 * [Проект 0. ______]()
 
