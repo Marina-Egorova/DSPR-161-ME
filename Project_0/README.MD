@@ -33,12 +33,15 @@
 
 ### Этапы работы над проектом
 ...
+
 :arrow_up:[к оглавлению](https://github.com/Marina-Egorova/DSPR-161-ME/tree/main/Project_0/README.md#Оглавление)
 
 ### Полученные результаты
 ...
+
 :arrow_up:[к оглавлению](https://github.com/Marina-Egorova/DSPR-161-ME/tree/main/Project_0/README.md#Оглавление)
 
 ### Выводы
 ...
+
 :arrow_up:[к оглавлению](https://github.com/Marina-Egorova/DSPR-161-ME/tree/main/Project_0/README.md#Оглавление)
